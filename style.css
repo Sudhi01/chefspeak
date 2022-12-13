@@ -29,7 +29,7 @@ body{
     color:black;
     background-color: wheat;
 }
-.outputt{
+.output{
     border: 2px solid bisque;
     min-height: 80px;
     max-height: 200px;
