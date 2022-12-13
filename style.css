@@ -1,0 +1,56 @@
+body{
+    background-color: aquamarine;
+}
+.navigation{
+    font-family: cursive;
+    font-size: xx-large;
+    padding:1rem;
+    margin:1rem;
+    text-align: center;
+}
+.textarea{
+    margin-left: 16rem;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    border-color: bisque;
+    font-size: larger;
+    overflow: scroll;
+    width:50%
+    
+    
+}
+.click{
+    margin-top: 2rem;
+    margin-left: 20rem;
+    margin-bottom: 2rem;
+    padding: 20px 45px;
+    font-weight: bolder;
+    font-size: large;
+    color:black;
+    background-color: wheat;
+}
+.outputt{
+    border: 2px solid bisque;
+    min-height: 80px;
+    max-height: 200px;
+    margin-left: 16rem;
+    padding: 1rem;
+    box-sizing: border-box;
+    width: 50%;
+    min-height: 10vh;
+    max-height: 40vh;
+    overflow: scroll;
+    background-color: white;
+
+}
+.footer{
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin: 6px auto;
+    margin-top: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.english{
+    margin-bottom: 5px;
+}
